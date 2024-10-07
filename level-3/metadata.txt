@@ -1,0 +1,7 @@
+## SHA256 Checksum
+
+b07bccf6f393cbaeec6e3a6a8248ecda58f0c44aa13930fecb35f5c8d8dfb861  disk.zip
+
+## Password
+
+PDSJphXCbhTZJGh14mH37BbX4wfLNdIXweGUzr22RBef6brvk1KmrR4wVqgTONv
